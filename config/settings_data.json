@@ -126,24 +126,33 @@
             "type": "announcement",
             "settings": {
               "text": "Free Shipping and Returns",
+              "text_alignment": "center",
               "color_scheme": "background-1",
               "link": ""
             }
           }
         },
-        "block_order": ["announcement-bar-0"],
-        "settings": {}
+        "block_order": [
+          "announcement-bar-0"
+        ],
+        "settings": {
+        }
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/logo-modified-1.png",
           "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "main-menu",
-          "show_line_separator": true,
+          "menu_type_desktop": "dropdown",
+          "show_line_separator": false,
           "enable_sticky_header": true,
-          "margin_bottom": 0
+          "mobile_logo_position": "center",
+          "margin_bottom": 0,
+          "padding_top": 20,
+          "padding_bottom": 20
         }
       },
       "footer": {
@@ -167,11 +176,15 @@
             "type": "text",
             "settings": {
               "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
+              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
           }
         },
-        "block_order": ["footer-0", "footer-1", "footer-2"],
+        "block_order": [
+          "footer-0",
+          "footer-1",
+          "footer-2"
+        ],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": true,
@@ -198,7 +211,10 @@
           "color_scheme": "background-1"
         }
       }
-    }
+    },
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {
@@ -333,8 +349,11 @@
               }
             }
           },
-          "block_order": ["announcement-bar-0"],
-          "settings": {}
+          "block_order": [
+            "announcement-bar-0"
+          ],
+          "settings": {
+          }
         },
         "header": {
           "type": "header",
@@ -369,11 +388,15 @@
               "type": "text",
               "settings": {
                 "heading": "Our mission",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
               }
             }
           },
-          "block_order": ["footer-0", "footer-1", "footer-2"],
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
           "settings": {
             "color_scheme": "background-1",
             "newsletter_enable": true,
