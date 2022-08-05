@@ -127,7 +127,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Free Shipping and Returns",
+              "text": "Free Shipping & Returns",
               "text_alignment": "center",
               "color_scheme": "background-1",
               "link": ""
