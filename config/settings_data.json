@@ -163,8 +163,15 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Shop",
+              "heading": "Product Type",
               "menu": "footer"
+            }
+          },
+          "8fab3461-8896-495e-80ce-b1060ccaa540": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Collections",
+              "menu": "collections"
             }
           },
           "footer-1": {
@@ -174,18 +181,19 @@
               "menu": "info-menu"
             }
           },
-          "footer-2": {
+          "e921eb84-b239-4e6e-9d00-fe7f9b9d6d08": {
             "type": "text",
             "settings": {
-              "heading": "Our mission",
+              "heading": "Our Mission",
               "subtext": "<p>To cater to the global diamond markets with unique diamond shapes such as diamond beads, briolettes (drops), nizam cut or taviz cut diamond, diamond portraits or Rondelles and an unusual collection of rose cuts<\/p>"
             }
           }
         },
         "block_order": [
           "footer-0",
+          "8fab3461-8896-495e-80ce-b1060ccaa540",
           "footer-1",
-          "footer-2"
+          "e921eb84-b239-4e6e-9d00-fe7f9b9d6d08"
         ],
         "settings": {
           "color_scheme": "background-1",
