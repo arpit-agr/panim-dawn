@@ -144,11 +144,19 @@
             "text": "<p>The pinnacle of luxury is bespoke. One piece of jewellery at a time, Panim fulfils our customers’ aspirations. We would be happy to help you fulfil your dream if you got in touch with us by phone or email.<\/p>",
             "text_style": "body"
           }
+        },
+        "85399cdb-5711-4e9e-9407-25f24b65a629": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact"
+          }
         }
       },
       "block_order": [
         "image-with-text-0",
-        "image-with-text-1"
+        "image-with-text-1",
+        "85399cdb-5711-4e9e-9407-25f24b65a629"
       ],
       "settings": {
         "height": "small",
