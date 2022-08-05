@@ -24,6 +24,12 @@
         padding-bottom: {{ section.settings.padding_bottom }}px;
       }
     }
+
+    .media > *:not(.zoom):not(.deferred-media__poster-button) {
+      height: auto;
+      aspect-ratio: 1;
+      object-fit: cover;
+    }
   {%- endstyle -%}
 
   <script src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
