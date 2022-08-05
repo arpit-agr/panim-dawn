@@ -134,14 +134,14 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Bespoke jewellery",
             "heading_size": "h1"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>The pinnacle of luxury is bespoke. One piece of jewellery at a time, Panim fulfils our customers’ aspirations. We would be happy to help you fulfil your dream if you got in touch with us by phone or email.<\/p>",
             "text_style": "body"
           }
         }
