@@ -108,7 +108,7 @@
     "social_twitter_link": "",
     "social_facebook_link": "",
     "social_pinterest_link": "",
-    "social_instagram_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/panimcreations\/",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
@@ -163,22 +163,22 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "Shop",
               "menu": "footer"
             }
           },
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Info",
-              "menu": "footer"
+              "heading": "Information",
+              "menu": "info-menu"
             }
           },
           "footer-2": {
             "type": "text",
             "settings": {
               "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "subtext": "<p>To cater to the global diamond markets with unique diamond shapes such as diamond beads, briolettes (drops), nizam cut or taviz cut diamond, diamond portraits or Rondelles and an unusual collection of rose cuts<\/p>"
             }
           }
         },
