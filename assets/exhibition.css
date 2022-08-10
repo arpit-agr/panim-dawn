@@ -1,0 +1,10 @@
+.exhibition {
+  display: flex; 
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+.exhibition > * {
+  flex: 1;
+  flex-basis: 280px;
+}
