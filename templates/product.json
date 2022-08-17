@@ -64,6 +64,15 @@
             "page": ""
           }
         },
+        "aff520ab-01d7-4acd-b473-009a78767f2f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Carat weight",
+            "icon": "question_mark",
+            "content": "",
+            "page": ""
+          }
+        },
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
@@ -127,6 +136,7 @@
         "ccc35ae9-8fb9-4c21-9ed0-5818cc665122",
         "description",
         "collapsible-row-0",
+        "aff520ab-01d7-4acd-b473-009a78767f2f",
         "collapsible-row-2",
         "collapsible-row-1",
         "8fee9e86-3182-4ea6-99b2-35c7846824b9",
