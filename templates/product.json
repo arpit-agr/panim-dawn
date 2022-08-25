@@ -47,7 +47,7 @@
         "ccc35ae9-8fb9-4c21-9ed0-5818cc665122": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"rte\">\n<a class=\"share-button__button\" href=\"https:\/\/wa.me\/+85294767365\">Connect With Us On WhatsApp<\/a><\/div>"
+            "custom_liquid": "<div class=\"rte\">\n<a class=\"share-button__button\" href=\"https:\/\/wa.me\/+85294767365\" target=\"_blank\">Connect With Us On WhatsApp<\/a><\/div>"
           }
         },
         "description": {
