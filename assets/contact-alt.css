@@ -1,0 +1,37 @@
+main :where(h1, h2, h3) {
+	text-align: center;
+}
+
+.contact-alt > p {
+	max-inline-size: 70ch;
+	text-align: center;
+	margin-inline: auto;
+}
+
+.offices {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: stretch;
+	gap: 1em;
+	margin-block-start: 2em;
+}
+
+.offices > * {
+	max-width: 33ch;
+	background-color: var(--gradient-base-background-2);
+	padding: 2em 1em;
+	text-align: center;
+}
+
+.offices h3 {
+	margin-block-start: 0;
+}
+
+.offices p {
+	margin-block-end: 0;
+}
+
+:where(main) .contact__button {
+	text-align: center;
+}
