@@ -925,6 +925,7 @@ summary::-webkit-details-marker {
 
 .title--primary {
 	margin: 4rem 0;
+	text-align: center;
 }
 
 .title-wrapper--self-padded-tablet-down,
