@@ -1,3 +1,13 @@
+main {
+	padding-block-start: 21px;
+}
+
+@media screen and (min-width: 750px) {
+	main {
+		padding-block-start: 28px;
+	}
+}
+
 main :where(h1, h2, h3) {
 	text-align: center;
 }
