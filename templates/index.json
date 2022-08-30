@@ -432,7 +432,7 @@
           "type": "column",
           "settings": {
             "title": "Hillary",
-            "text": "<p>Cannot say enough good things about my experience with this seller! Absolutely great communication. I love the gorgeous bracelet. I will enthusiastically buy again.<\/p>",
+            "text": "<p>Absolutely great communication. I love the gorgeous bracelet. I will enthusiastically buy again.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -472,6 +472,15 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "48ce1f59-d643-4882-80fe-30c7a3f93ca0": {
+          "type": "column",
+          "settings": {
+            "title": "Ludmila",
+            "text": "<p>Wonderful seller and beautiful earrings!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -479,7 +488,8 @@
         "column2",
         "column3",
         "fc69e367-d89e-4b13-af78-0bcdd53db191",
-        "8664ea1e-1f39-4922-9f6a-2b4c76c740f2"
+        "8664ea1e-1f39-4922-9f6a-2b4c76c740f2",
+        "48ce1f59-d643-4882-80fe-30c7a3f93ca0"
       ],
       "settings": {
         "title": "Customer Reviews",
