@@ -7,13 +7,19 @@ main {
 		padding-block-start: 28px;
 	}
 }
+
 .exhibition {
-  display: flex; 
-  flex-wrap: wrap;
-  gap: 1em;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2em;
 }
 
 .exhibition > * {
-  flex: 1;
-  flex-basis: 280px;
+	flex: 1;
+	flex-basis: 240px;
+}
+
+.rte :where(h2, h3) {
+	text-align: left !important;
+	margin: 0;
 }
