@@ -205,6 +205,33 @@
         "padding_bottom": 20
       }
     },
+    "16633026256f9a7fe8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Selling Jewellery",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1660619501440dc87a": {
       "type": "image-with-text",
       "blocks": {
@@ -516,6 +543,7 @@
     "video",
     "1660619667bd286826",
     "16606205030eba95c6",
+    "16633026256f9a7fe8",
     "1660619501440dc87a",
     "16606208519b20d64d",
     "1660621239e660e6dc",
