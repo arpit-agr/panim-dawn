@@ -10,7 +10,7 @@
 		"colors_background_1": "#ffffff",
 		"gradient_background_1": "",
 		"colors_background_2": "#f3f3f3",
-		"gradient_background_2": "",
+		"gradient_background_2": "linear-gradient(180deg, hsl(0deg 0% 95% / 0%) 50%, hsl(0deg 0% 95%) 100%)",
 		"type_header_font": "serif",
 		"heading_scale": 100,
 		"type_body_font": "serif",
