@@ -1,0 +1,11 @@
+@media (min-width: 768px) {
+	.about-page {
+		columns: 2;
+		column-gap: 4em;
+		column-rule: 0.1rem solid currentColor;
+	}
+
+	.about-page h1 {
+		column-span: all;
+	}
+}
