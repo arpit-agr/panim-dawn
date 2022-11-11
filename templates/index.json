@@ -458,8 +458,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Hillary",
-            "text": "<p>Absolutely great communication. I love the gorgeous bracelet. I will enthusiastically buy again.<\/p>",
+            "title": "- Hillary",
+            "text": "<p>★★★★★<\/p><p>Absolutely great communication. I love the gorgeous bracelet. I will enthusiastically buy again.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -467,8 +467,8 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Kim",
-            "text": "<p>The seller was very easy to deal with and the product exceptional.<\/p>",
+            "title": "- Kim",
+            "text": "<p>★★★★★<\/p><p>The seller was very easy to deal with and the product exceptional.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -476,8 +476,8 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Shaikah",
-            "text": "<p> Very efficient, excellent service, quick delivery. Thank you.<\/p>",
+            "title": "- Shaikah",
+            "text": "<p>★★★★★ <\/p><p>Very efficient, excellent service, quick delivery. Thank you.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -485,8 +485,8 @@
         "fc69e367-d89e-4b13-af78-0bcdd53db191": {
           "type": "column",
           "settings": {
-            "title": "Pamela",
-            "text": "<p>Beautiful and delicate necklace. I love it!!<\/p>",
+            "title": "- Pamela",
+            "text": "<p>★★★★★<\/p><p>Beautiful and delicate necklace. I love it!!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -494,8 +494,8 @@
         "8664ea1e-1f39-4922-9f6a-2b4c76c740f2": {
           "type": "column",
           "settings": {
-            "title": "Hyo",
-            "text": "<p>Smooth, quick, easy! The piece is lovely. Thank you.<\/p>",
+            "title": "- Hyo",
+            "text": "<p>★★★★★<\/p><p>Smooth, quick, easy! The piece is lovely. Thank you.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -503,8 +503,8 @@
         "48ce1f59-d643-4882-80fe-30c7a3f93ca0": {
           "type": "column",
           "settings": {
-            "title": "Ludmila",
-            "text": "<p>Wonderful seller and beautiful earrings!<\/p>",
+            "title": "- Ludmila",
+            "text": "<p>★★★★★<\/p><p>Wonderful seller and beautiful earrings!<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -519,7 +519,7 @@
         "48ce1f59-d643-4882-80fe-30c7a3f93ca0"
       ],
       "settings": {
-        "title": "Customer Reviews",
+        "title": "Testimonials",
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
