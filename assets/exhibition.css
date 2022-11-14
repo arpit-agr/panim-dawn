@@ -16,7 +16,15 @@ main {
 
 .exhibition > * {
 	flex: 1;
-	flex-basis: 240px;
+	flex-basis: 31%;
+}
+
+.exhibition > :first-child {
+	flex-basis: 100%;
+}
+
+.exhibition > :first-child img {
+	width: 100%;
 }
 
 .rte :where(h2, h3) {
