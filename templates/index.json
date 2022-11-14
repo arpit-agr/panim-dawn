@@ -61,7 +61,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>We are one of the foremost diamond jewellery manufacturers with an unusual collection of diamond & fine gemstone jewellery.<\/p>"
+            "text": "<p>View our collection of Fine Jewellery<\/p>"
           }
         }
       },
@@ -208,7 +208,7 @@
     "16633026256f9a7fe8": {
       "type": "featured-collection",
       "settings": {
-        "title": "Best Selling Jewellery",
+        "title": "Most Popular Jewellery",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
