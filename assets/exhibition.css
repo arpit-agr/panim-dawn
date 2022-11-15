@@ -24,12 +24,16 @@ main {
 }
 
 .exhibition > :first-child img {
-	width: 100%;
+	/* width: 100%; */
+	/* object-fit: cover; */
 	max-height: 50vh;
-	object-fit: cover;
+}
+
+.rte {
+	text-align: center;
 }
 
 .rte :where(h2, h3) {
-	text-align: left !important;
+	/* text-align: left !important; */
 	margin: 0;
 }
