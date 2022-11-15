@@ -25,6 +25,8 @@ main {
 
 .exhibition > :first-child img {
 	width: 100%;
+	max-height: 50vh;
+	object-fit: cover;
 }
 
 .rte :where(h2, h3) {
