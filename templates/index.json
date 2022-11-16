@@ -2,20 +2,19 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Welcome to Panim",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text": "View our collection of Fine Jewellery",
+            "text_style": "subtitle"
           }
         },
         "button": {
@@ -36,7 +35,8 @@
         "button"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/22_1.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
@@ -45,11 +45,12 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "rich_text": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
