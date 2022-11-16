@@ -96,8 +96,6 @@
 	margin-left: 0.2rem;
 }
 
-[class*="15523059892276"]
-	.image-with-text__media.image-with-text__media--small.gradient.color-background-2.global-media-settings.media
-	> img {
-	height: 100%;
+[alt="Green necklace artfully placed on a white board"] {
+	height: 100% !important;
 }
