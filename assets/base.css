@@ -2993,3 +2993,7 @@ details-disclosure > details {
 		outline: transparent solid 1px;
 	}
 }
+
+.shopify-policy__container {
+	max-width: min(100%, 50em);
+}
