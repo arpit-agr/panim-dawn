@@ -68,7 +68,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Carat weight",
-            "icon": "question_mark",
+            "icon": "star",
             "content": "<p>{{ product.metafields.custom.carat_weight | metafield_tag }}<\/p>",
             "page": ""
           }
@@ -80,6 +80,15 @@
             "heading": "Dimensions",
             "icon": "ruler",
             "content": "",
+            "page": ""
+          }
+        },
+        "75d4eec5-e888-462d-b556-1312623f31db": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Taxes and Duties",
+            "icon": "price_tag",
+            "content": "<p>For orders placed outside of Hong Kong, local customs in the destination country will be responsible for collecting VAT and other duties.<\/p><p><\/p><p>Read more about <a href=\"\/pages\/orders-and-payments\" target=\"_blank\" title=\"Orders and payments\">orders and payments<\/a><\/p>",
             "page": ""
           }
         },
@@ -139,6 +148,7 @@
         "collapsible-row-0",
         "aff520ab-01d7-4acd-b473-009a78767f2f",
         "collapsible-row-2",
+        "75d4eec5-e888-462d-b556-1312623f31db",
         "collapsible-row-1",
         "8fee9e86-3182-4ea6-99b2-35c7846824b9",
         "collapsible-row-3",
