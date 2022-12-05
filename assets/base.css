@@ -2997,3 +2997,9 @@ details-disclosure > details {
 .shopify-policy__container {
 	max-width: min(100%, 50em);
 }
+
+/* align ig section view all link */
+[href="https://www.instagram.com/panimcreations/"]
+{
+	margin-inline: auto;
+}
