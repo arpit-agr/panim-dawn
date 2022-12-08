@@ -3003,3 +3003,8 @@ details-disclosure > details {
 {
 	margin-inline: auto;
 }
+
+/* disable dragging of images */
+img {
+	-webkit-user-drag: none;
+}
