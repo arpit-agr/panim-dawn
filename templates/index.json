@@ -455,11 +455,9 @@
     },
     "3d95d0e5-c333-4cf1-bd8b-a53cdd06f7d1": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "a58594b8-2f62-4e92-9fa9-330c58cbaa82": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/ig.jpg",
             "title": "",
@@ -470,7 +468,6 @@
         },
         "5fc5fcf9-2105-4288-8e74-ad79cd99ca36": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/ig-2.jpg",
             "title": "",
@@ -481,7 +478,6 @@
         },
         "ccff011c-c28a-4298-b0f1-94b49e147584": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/ig-3.jpg",
             "title": "",
@@ -523,63 +519,6 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "a4b72fff-84c7-459e-aa26-eadb8a6a97a4": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15243474796596__a4b72fff-84c7-459e-aa26-eadb8a6a97a4-16710068831362c962-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Follow us on Instagram<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--15243474796596__a4b72fff-84c7-459e-aa26-eadb8a6a97a4-16710068831362c962-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--15243474796596__a4b72fff-84c7-459e-aa26-eadb8a6a97a4-16710068831362c962-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15243474796596__a4b72fff-84c7-459e-aa26-eadb8a6a97a4-16710068831362c962-0",
-        "template--15243474796596__a4b72fff-84c7-459e-aa26-eadb8a6a97a4-16710068831362c962-1",
-        "template--15243474796596__a4b72fff-84c7-459e-aa26-eadb8a6a97a4-16710068831362c962-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "instastory-786": {
-      "type": "instagram_feed_story",
-      "settings": {
-      }
-    },
-    "3c4e28a7-b29e-4406-b56c-59fc460d2b79": {
-      "type": "instafeed",
-      "settings": {
-        "heading_size": 20,
-        "feed_width": 100,
-        "html_area": ""
       }
     },
     "multicolumn": {
@@ -680,9 +619,6 @@
     "166062122086c43d48",
     "1660621202d7de3010",
     "3d95d0e5-c333-4cf1-bd8b-a53cdd06f7d1",
-    "a4b72fff-84c7-459e-aa26-eadb8a6a97a4",
-    "instastory-786",
-    "3c4e28a7-b29e-4406-b56c-59fc460d2b79",
     "multicolumn"
   ]
 }
