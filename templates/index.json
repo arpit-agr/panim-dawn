@@ -453,8 +453,61 @@
         "padding_bottom": 0
       }
     },
+    "93e9c295-1361-44ae-b313-f1c33822581e": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 30,
+        "feed_width": 100,
+        "html_area": ""
+      }
+    },
+    "12b12af4-891b-4a36-974b-b9e073e2f979": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15243474796596__12b12af4-891b-4a36-974b-b9e073e2f979-16710109862ea12bb0-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--15243474796596__12b12af4-891b-4a36-974b-b9e073e2f979-16710109862ea12bb0-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--15243474796596__12b12af4-891b-4a36-974b-b9e073e2f979-16710109862ea12bb0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View latest posts",
+            "button_link": "https:\/\/www.instagram.com\/panimcreations\/",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15243474796596__12b12af4-891b-4a36-974b-b9e073e2f979-16710109862ea12bb0-0",
+        "template--15243474796596__12b12af4-891b-4a36-974b-b9e073e2f979-16710109862ea12bb0-1",
+        "template--15243474796596__12b12af4-891b-4a36-974b-b9e073e2f979-16710109862ea12bb0-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "3d95d0e5-c333-4cf1-bd8b-a53cdd06f7d1": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "a58594b8-2f62-4e92-9fa9-330c58cbaa82": {
           "type": "column",
@@ -618,6 +671,8 @@
     "1660621239e660e6dc",
     "166062122086c43d48",
     "1660621202d7de3010",
+    "93e9c295-1361-44ae-b313-f1c33822581e",
+    "12b12af4-891b-4a36-974b-b9e073e2f979",
     "3d95d0e5-c333-4cf1-bd8b-a53cdd06f7d1",
     "multicolumn"
   ]
