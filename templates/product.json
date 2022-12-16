@@ -211,6 +211,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -224,6 +225,74 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 28
+      }
+    },
+    "43144a14-16a3-4218-a8ef-e961f1ab84d1": {
+      "type": "product-slider",
+      "blocks": {
+        "d0a7f675-8a75-475c-b683-37548921815d": {
+          "type": "card",
+          "settings": {
+            "product_item": "1-carat-pear-diamond-rosecut-wrap-ring-white-gold"
+          }
+        },
+        "bb47db77-6d05-424f-a392-b7a41bdca994": {
+          "type": "card",
+          "settings": {
+            "product_item": "12-77-carat-diamond-rosecut-chandelier-earrings"
+          }
+        },
+        "b39e7b4d-a93c-484e-9558-b2cfec81fb46": {
+          "type": "card",
+          "settings": {
+            "product_item": "2-carat-rosecut-fancy-color-briolette-mono-earrings-white-gold"
+          }
+        },
+        "06286965-4dd4-4e83-985d-70c069516e56": {
+          "type": "card",
+          "settings": {
+            "product_item": "22-41cts-diamond-briolette-earrings-yellow-gold"
+          }
+        },
+        "532c8a5f-8022-43ac-a82c-bdb6df980fad": {
+          "type": "card",
+          "settings": {
+            "product_item": "2-77-carat-rosecut-briolette-diamond-drop-earrings-white-gold"
+          }
+        },
+        "74f4ad94-3e0e-4263-80e2-94fe0e924ad7": {
+          "type": "card",
+          "settings": {
+            "product_item": "diamond-beads-emerald-necklace"
+          }
+        },
+        "7abf6327-69bf-4e4b-ade2-3c2726fba1ca": {
+          "type": "card",
+          "settings": {
+            "product_item": "0-61-carat-diamond-rosecut-moi-et-toi-ring-white-gold"
+          }
+        },
+        "6e655ad8-641b-40e5-8ce8-57ae2c4a5880": {
+          "type": "card",
+          "settings": {
+            "product_item": "diamond-briolette-rosecut-floral-ring"
+          }
+        }
+      },
+      "block_order": [
+        "d0a7f675-8a75-475c-b683-37548921815d",
+        "bb47db77-6d05-424f-a392-b7a41bdca994",
+        "b39e7b4d-a93c-484e-9558-b2cfec81fb46",
+        "06286965-4dd4-4e83-985d-70c069516e56",
+        "532c8a5f-8022-43ac-a82c-bdb6df980fad",
+        "74f4ad94-3e0e-4263-80e2-94fe0e924ad7",
+        "7abf6327-69bf-4e4b-ade2-3c2726fba1ca",
+        "6e655ad8-641b-40e5-8ce8-57ae2c4a5880"
+      ],
+      "settings": {
+        "navigation_amount": 3,
+        "navigation_color": "",
+        "title": "You may also like this"
       }
     },
     "image-with-text": {
@@ -275,6 +344,7 @@
     "main",
     "multicolumn",
     "product-recommendations",
+    "43144a14-16a3-4218-a8ef-e961f1ab84d1",
     "image-with-text"
   ]
 }
