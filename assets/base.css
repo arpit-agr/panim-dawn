@@ -3021,3 +3021,11 @@ img {
     border-radius: 5px;
     display: none;
 }
+/*product gap*/
+.collection-hero--with-image .collection-hero__title {
+    margin: -21px 0px 0px 0px;
+}
+
+.collection-hero__image-container.media.gradient {
+    margin-top: -25px;
+}
