@@ -230,16 +230,16 @@
     "43144a14-16a3-4218-a8ef-e961f1ab84d1": {
       "type": "product-slider",
       "blocks": {
-        "d0a7f675-8a75-475c-b683-37548921815d": {
-          "type": "card",
-          "settings": {
-            "product_item": "{{ product }}"
-          }
-        },
         "bb47db77-6d05-424f-a392-b7a41bdca994": {
           "type": "card",
           "settings": {
             "product_item": "12-77-carat-diamond-rosecut-chandelier-earrings"
+          }
+        },
+        "d0a7f675-8a75-475c-b683-37548921815d": {
+          "type": "card",
+          "settings": {
+            "product_item": "1-carat-pear-diamond-rosecut-wrap-ring-white-gold"
           }
         },
         "b39e7b4d-a93c-484e-9558-b2cfec81fb46": {
@@ -248,16 +248,16 @@
             "product_item": "2-carat-rosecut-fancy-color-briolette-mono-earrings-white-gold"
           }
         },
-        "06286965-4dd4-4e83-985d-70c069516e56": {
-          "type": "card",
-          "settings": {
-            "product_item": "22-41cts-diamond-briolette-earrings-yellow-gold"
-          }
-        },
         "532c8a5f-8022-43ac-a82c-bdb6df980fad": {
           "type": "card",
           "settings": {
             "product_item": "2-77-carat-rosecut-briolette-diamond-drop-earrings-white-gold"
+          }
+        },
+        "06286965-4dd4-4e83-985d-70c069516e56": {
+          "type": "card",
+          "settings": {
+            "product_item": "22-41cts-diamond-briolette-earrings-yellow-gold"
           }
         },
         "74f4ad94-3e0e-4263-80e2-94fe0e924ad7": {
@@ -280,11 +280,11 @@
         }
       },
       "block_order": [
-        "d0a7f675-8a75-475c-b683-37548921815d",
         "bb47db77-6d05-424f-a392-b7a41bdca994",
+        "d0a7f675-8a75-475c-b683-37548921815d",
         "b39e7b4d-a93c-484e-9558-b2cfec81fb46",
-        "06286965-4dd4-4e83-985d-70c069516e56",
         "532c8a5f-8022-43ac-a82c-bdb6df980fad",
+        "06286965-4dd4-4e83-985d-70c069516e56",
         "74f4ad94-3e0e-4263-80e2-94fe0e924ad7",
         "7abf6327-69bf-4e4b-ade2-3c2726fba1ca",
         "6e655ad8-641b-40e5-8ce8-57ae2c4a5880"
