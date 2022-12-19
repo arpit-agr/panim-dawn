@@ -24,8 +24,7 @@
     </title>
 
     {% if page_description %}
-      <meta name="description" content=" Welcome to Panim.
-Browse through our collection of Fine Jewellery of Briolette diamonds.">
+      <meta name="description" content="{{ page_description | escape }}">
     {% endif %}
 
     {% render 'meta-tags' %}
