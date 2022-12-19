@@ -233,7 +233,7 @@
         "d0a7f675-8a75-475c-b683-37548921815d": {
           "type": "card",
           "settings": {
-            "product_item": "1-carat-pear-diamond-rosecut-wrap-ring-white-gold"
+            "product_item": "{{ product }}"
           }
         },
         "bb47db77-6d05-424f-a392-b7a41bdca994": {
