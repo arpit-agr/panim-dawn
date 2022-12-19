@@ -65,7 +65,7 @@
 }
 
 .collection-hero--with-image .collection-hero__title {
-	margin: 0;
+	margin: -21px 0px 0px 0px;
 }
 
 .collection-hero--with-image .collection-hero__text-wrapper {
