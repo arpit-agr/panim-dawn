@@ -3008,3 +3008,16 @@ details-disclosure > details {
 img {
 	-webkit-user-drag: none;
 }
+/*popup*/
+.recommendation-modal__container {
+    box-shadow: 0px 0px 1px rgb(0 0 0 / 30%), 0px 4px 4px 1px rgb(0 0 0 / 10%);
+    max-width: 30em;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: calc(100% - 2em);
+    z-index: 1000000;
+    border-radius: 5px;
+    display: none;
+}
