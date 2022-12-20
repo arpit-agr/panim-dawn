@@ -229,6 +229,7 @@
     },
     "43144a14-16a3-4218-a8ef-e961f1ab84d1": {
       "type": "product-slider",
+      "disabled": true,
       "blocks": {
         "bb47db77-6d05-424f-a392-b7a41bdca994": {
           "type": "card",
@@ -295,6 +296,15 @@
         "title": "You may also like this"
       }
     },
+    "d25f2397-3cec-4348-ae48-865452e16c16": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- Add recommendation widget -->\n\n<div id=\"ur-custom-widget\"><\/div>\n\n<!-- End recommendation widget -->",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -345,6 +355,7 @@
     "multicolumn",
     "product-recommendations",
     "43144a14-16a3-4218-a8ef-e961f1ab84d1",
+    "d25f2397-3cec-4348-ae48-865452e16c16",
     "image-with-text"
   ]
 }
