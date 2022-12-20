@@ -95,10 +95,10 @@
 	}
 
 	.collection-hero__image-container {
-		/*align-self: stretch;*/
+		align-self: stretch;
 		/* flex: 1 0 50%; */
 		/* margin-left: 3rem; */
-      align-self: center;
+      
 		min-height: 60rem;
           margin-top: -30px;
 
