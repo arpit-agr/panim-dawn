@@ -299,7 +299,7 @@
     "d25f2397-3cec-4348-ae48-865452e16c16": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<!-- Add recommendation widget -->\n\n<div id=\"ur-custom-widget\"><\/div>\n\n<!-- End recommendation widget -->",
+        "custom_liquid": "<!-- Add recommendation widget -->\n\n<div id=\"ur-custom-widget\"><\/div>\n\n<!-- End recommendation widget -->mendation widget -->",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
