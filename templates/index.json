@@ -37,7 +37,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Parth_Website_home_page_banner.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
