@@ -142,12 +142,6 @@
             "collection": "rings"
           }
         },
-        "ddc86387-f748-44bb-aa0c-120de1df71e7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "engagement-rings"
-          }
-        },
         "9b84f606-2f03-4537-a37c-aa2c06154800": {
           "type": "featured_collection",
           "settings": {
@@ -159,7 +153,6 @@
         "1660619667a4ba7e44-0",
         "1660619667a4ba7e44-1",
         "1660619667a4ba7e44-2",
-        "ddc86387-f748-44bb-aa0c-120de1df71e7",
         "9b84f606-2f03-4537-a37c-aa2c06154800"
       ],
       "settings": {
