@@ -448,6 +448,7 @@
     },
     "93e9c295-1361-44ae-b313-f1c33822581e": {
       "type": "instafeed",
+      "disabled": true,
       "settings": {
         "heading_size": 30,
         "feed_width": 100,
@@ -500,7 +501,6 @@
     },
     "3d95d0e5-c333-4cf1-bd8b-a53cdd06f7d1": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "a58594b8-2f62-4e92-9fa9-330c58cbaa82": {
           "type": "column",
