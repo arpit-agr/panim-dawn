@@ -650,6 +650,74 @@
         "padding_top": 72,
         "padding_bottom": 36
       }
+    },
+    "ab9fe5b2-50c7-4894-905e-e811a4bf9e1c": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--15243474796596__ab9fe5b2-50c7-4894-905e-e811a4bf9e1c-1683968458434797bb-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Panim_Briolette_Necklace.jpg",
+            "title": "Necklaces & Pendants",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/necklaces"
+          }
+        },
+        "template--15243474796596__ab9fe5b2-50c7-4894-905e-e811a4bf9e1c-1683968458434797bb-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Panim_Earrings_1.jpg",
+            "title": "Earrings",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/earrings"
+          }
+        },
+        "template--15243474796596__ab9fe5b2-50c7-4894-905e-e811a4bf9e1c-1683968458434797bb-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Panim_Ring_2.jpg",
+            "title": "Rings",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/rings"
+          }
+        },
+        "4ef2ef85-8e1a-4fc8-9f3b-342085ae1b61": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Panim_Bracelet_1.jpg",
+            "title": "Bracelets",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/bracelets"
+          }
+        }
+      },
+      "block_order": [
+        "template--15243474796596__ab9fe5b2-50c7-4894-905e-e811a4bf9e1c-1683968458434797bb-0",
+        "template--15243474796596__ab9fe5b2-50c7-4894-905e-e811a4bf9e1c-1683968458434797bb-1",
+        "template--15243474796596__ab9fe5b2-50c7-4894-905e-e811a4bf9e1c-1683968458434797bb-2",
+        "4ef2ef85-8e1a-4fc8-9f3b-342085ae1b61"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -668,6 +736,7 @@
     "93e9c295-1361-44ae-b313-f1c33822581e",
     "12b12af4-891b-4a36-974b-b9e073e2f979",
     "3d95d0e5-c333-4cf1-bd8b-a53cdd06f7d1",
-    "multicolumn"
+    "multicolumn",
+    "ab9fe5b2-50c7-4894-905e-e811a4bf9e1c"
   ]
 }
