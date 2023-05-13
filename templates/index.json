@@ -228,7 +228,7 @@
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
-        "button_link": "",
+        "button_link": "shopify:\/\/collections",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
