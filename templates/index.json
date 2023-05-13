@@ -123,7 +123,6 @@
     },
     "1660619667bd286826": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "1660619667a4ba7e44-0": {
           "type": "featured_collection",
@@ -171,6 +170,7 @@
     },
     "ab9fe5b2-50c7-4894-905e-e811a4bf9e1c": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--15243474796596__ab9fe5b2-50c7-4894-905e-e811a4bf9e1c-1683968458434797bb-0": {
           "type": "column",
