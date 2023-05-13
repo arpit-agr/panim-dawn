@@ -264,7 +264,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 0
@@ -308,7 +308,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 0
@@ -352,7 +352,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 0
@@ -396,7 +396,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 0
@@ -440,7 +440,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 0
