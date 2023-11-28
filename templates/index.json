@@ -741,7 +741,7 @@
         "template--15243474796596__1986c4ed-57b5-44fc-ac2a-34ee5e10a85a-text-1"
       ],
       "custom_css": [
-
+        ".rich-text__blocks.left {max-width: 100%; text-align: justify;}"
       ],
       "settings": {
         "desktop_content_position": "left",
