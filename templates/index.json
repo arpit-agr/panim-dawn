@@ -740,11 +740,14 @@
         "template--15243474796596__1986c4ed-57b5-44fc-ac2a-34ee5e10a85a-heading-1",
         "template--15243474796596__1986c4ed-57b5-44fc-ac2a-34ee5e10a85a-text-1"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
         "color_scheme": "background-1",
-        "full_width": true,
+        "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
