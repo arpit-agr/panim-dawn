@@ -3021,3 +3021,20 @@ img {
     border-radius: 5px;
     display: none;
 }
+
+
+nav.breadcrumb {
+    background: #a9a9a96e;
+    padding: 0px 0px 0px 10px;
+    font-size: 15px;
+}
+
+@media screen and (max-width: 749px)
+{
+nav.breadcrumb {
+ background: #a9a9a96e;
+    padding: 0px 0px 0px 10px;
+    font-size: 12px;
+}
+}
+
