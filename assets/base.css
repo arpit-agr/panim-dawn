@@ -3038,3 +3038,17 @@ nav.breadcrumb {
 }
 }
 
+a.mega-menu__link.mega-menu__link--level-2.link {
+    font-size: 14px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 749px){
+
+a.mega-menu__link.mega-menu__link--level-2.link {
+  
+    
+    
+}
+}
