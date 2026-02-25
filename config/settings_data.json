@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
@@ -10,7 +19,7 @@
     "colors_background_1": "#ffffff",
     "gradient_background_1": "",
     "colors_background_2": "#f3f3f3",
-    "gradient_background_2": "linear-gradient(180deg, hsl(0deg 0% 95% \/ 0%) 50%, hsl(0deg 0% 95%) 100%)",
+    "gradient_background_2": "linear-gradient(180deg, hsl(0deg 0% 95% / 0%) 50%, hsl(0deg 0% 95%) 100%)",
     "type_header_font": "lato_n4",
     "heading_scale": 105,
     "type_body_font": "lato_n4",
@@ -106,9 +115,9 @@
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
     "social_twitter_link": "",
-    "social_facebook_link": "https:\/\/www.facebook.com\/panimcreations",
+    "social_facebook_link": "https://www.facebook.com/panimcreations",
     "social_pinterest_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/panimcreations\/",
+    "social_instagram_link": "https://www.instagram.com/panimjewellery/",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
@@ -117,20 +126,19 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
-    "favicon": "shopify:\/\/shop_images\/panim-removebg.png",
+    "favicon": "shopify://shop_images/panim-removebg.png",
     "currency_code_enabled": true,
     "cart_type": "drawer",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/logo-modified-1.png",
+          "logo": "shopify://shop_images/logo-modified-1.png",
           "logo_width": 120,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -218,9 +226,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ]
+    "content_for_index": []
   },
   "presets": {
     "Default": {
@@ -358,8 +364,7 @@
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -394,7 +399,7 @@
               "type": "text",
               "settings": {
                 "heading": "Our mission",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
               }
             }
           },
